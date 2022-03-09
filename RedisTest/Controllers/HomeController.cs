@@ -15,7 +15,7 @@ namespace RedisTest.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return View();//test
         }
 
         public IActionResult Privacy()
